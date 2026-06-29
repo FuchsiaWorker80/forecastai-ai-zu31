@@ -1,4 +1,4 @@
-# 
+# Actualizado ForecastAI descargador. Descarga e instala con modo sin conexión y soporte CLI — rápido, seguro y fácil de usar.
 
 
 
